@@ -1,0 +1,16 @@
+<h2>Detalle Empleado : {{contactSelected}}</h2>
+<div id="div1">
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th scope="col">Nombre</th>
+                <th scope="col">Username</th>
+              </tr>
+        </thead>
+       <tbody>
+        <tr *ngFor="let date of contacts"  (click)="onRowClick(date)">
+            <th scope="row">{{ date.nombre}}</th>
+            <td>{{ date.nombre_de_usuario  }}</td>  
+        </tr>
+       </tbody>
+    </table>

@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "nombre": "Carlos Castro",
+    "nombre_de_usuario": "ccastro",
+    "correo": "ccastro@aprende-facilmente.com",
+    "direccion": {
+      "calle": "Kulas Light",
+      "ciudad": "Gwenborough",
+      "codigo_postal": "92998"
+    },
+    "telefono": "1-770-736-8031",
+    "website": "www.aprende-facilmente.com",
+    "empresa": {
+      "nombre": "Aprende Fácilmente",
+      "cargo": "Gerente General"
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Felipe Flores",
+    "nombre_de_usuario": "fflores",
+    "correo": "fflores@ibm.com",
+    "direccion": {
+      "calle": "Rodeo Drive 234",
+      "ciudad": "Holywood",
+      "codigo_postal": "92998"
+    },
+    "telefono": "1-880-736-8031",
+    "website": "www.ibm.com",
+    "empresa": {
+      "nombre": "IBM",
+      "cargo": "Desarrollador Web"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Diana Duarte",
+    "nombre_de_usuario": "dduarte",
+    "correo": "dduarte@google.com",
+    "direccion": {
+      "calle": "1600 Amphitheatre Parkway",
+      "ciudad": "Mountain View",
+      "codigo_postal": "94043"
+    },
+    "telefono": "+1 650-253-0000",
+    "website": "www.google.com",
+    "empresa": {
+      "nombre": "Google",
+      "cargo": "Desarrollador Web"
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Claudia Cervantes",
+    "nombre_de_usuario": "ccervantes",
+    "correo": "ccervantes@facebook.com",
+    "direccion": {
+      "calle": "1 hacker way",
+      "ciudad": "Menlo Park",
+      "codigo_postal": "94025"
+    },
+    "telefono": "(650) 543-4800",
+    "website": "hildegard.org",
+    "empresa": {
+      "nombre": "Facebook",
+      "cargo": "Directora General"
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Gabriel Garcia",
+    "nombre_de_usuario": "ggarcia",
+    "correo": "ggarcia@twitter.com",
+    "direccion": {
+      "calle": "1355 Market Street",
+      "ciudad": "San Francisco",
+      "codigo_postal": "94103"
+    },
+    "telefono": "1-415-222-9670",
+    "website": "www.twitter.com",
+    "empresa": {
+      "nombre": "Twitter",
+      "cargo": "Director de Tweets"
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Raul Rodriguez",
+    "nombre_de_usuario": "rrodriguez",
+    "correo": "rrodriguez@apple.com",
+    "direccion": {
+      "calle": "1 Infinite Loop",
+      "ciudad": "Cupertino",
+      "codigo_postal": "95014"
+    },
+    "telefono": "(408) 996–1010",
+    "website": "www.apple.com",
+    "empresa": {
+      "nombre": "Apple",
+      "cargo": "Vendedor de Manzanas"
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Andrea Arango",
+    "nombre_de_usuario": "aarango",
+    "correo": "aarango@amazon.com",
+    "direccion": {
+      "calle": "410 Terry Ave. North",
+      "ciudad": "Seattle",
+      "codigo_postal": "98109-5210"
+    },
+    "telefono": "(206) 266-1000",
+    "website": "www.amazon.com",
+    "empresa": {
+      "nombre": "Amazon",
+      "cargo": "Directora de Ventas"
+    }
+  }
+]
